@@ -9,6 +9,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mktrandeepa&label=Profile%20views&color=red&style=flat" alt="mktrandeepa" /> </p>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> *About me*
+"Hi, I’m Tayana 👋, a Computer Science undergraduate 🎓 at NSBM, affiliated with Plymouth University. I’m passionate about coding 💻 and creating innovative solutions 🌟."
+
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
